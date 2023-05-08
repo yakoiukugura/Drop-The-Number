@@ -1,0 +1,10 @@
+C:\Users\TheBoss\OneDrive\Desktop\Drop The Number\Drop The Number\bin\Debug\Drop The Number.exe.config
+C:\Users\TheBoss\OneDrive\Desktop\Drop The Number\Drop The Number\bin\Debug\Drop The Number.exe
+C:\Users\TheBoss\OneDrive\Desktop\Drop The Number\Drop The Number\bin\Debug\Drop The Number.pdb
+C:\Users\TheBoss\OneDrive\Desktop\Drop The Number\Drop The Number\obj\Debug\Drop The Number.csproj.AssemblyReference.cache
+C:\Users\TheBoss\OneDrive\Desktop\Drop The Number\Drop The Number\obj\Debug\Drop_The_Number.Form1.resources
+C:\Users\TheBoss\OneDrive\Desktop\Drop The Number\Drop The Number\obj\Debug\Drop_The_Number.Properties.Resources.resources
+C:\Users\TheBoss\OneDrive\Desktop\Drop The Number\Drop The Number\obj\Debug\Drop The Number.csproj.GenerateResource.cache
+C:\Users\TheBoss\OneDrive\Desktop\Drop The Number\Drop The Number\obj\Debug\Drop The Number.csproj.CoreCompileInputs.cache
+C:\Users\TheBoss\OneDrive\Desktop\Drop The Number\Drop The Number\obj\Debug\Drop The Number.exe
+C:\Users\TheBoss\OneDrive\Desktop\Drop The Number\Drop The Number\obj\Debug\Drop The Number.pdb
